@@ -1,0 +1,127 @@
+.product-container {
+    display: flex;
+    align-items: left;
+  }
+
+  .product-image {
+    max-width: 300px;
+    margin-right: 20px;
+  }
+
+  .member-info h3 {
+  margin-top: 20px;
+}
+
+.member-info .size-button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+  
+  .product-details h2 {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .size-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #ffc451;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .selected {
+    background-color: #ff0000;
+    color: #fff;
+  }
+
+  .quantity-input {
+    width: 50px;
+    margin-top: 10px;
+  }
+
+  .add-to-cart-button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+    
+ }
+ .collaborateur{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .compte{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .profil{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .fiche{
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .total-panier {
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+
+  .toto{
+    display: block;
+    width: 200px;
+    margin: 40px auto;
+    padding: 10px 20px;
+    background-color: #ffc451;
+    border: none;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .rappel{
+    margin-top: 40px;
+
+  }
+  
+  .imgProfil{
+    width: 150px; 
+    margin-top: 30px;
+
+  }
+
+
+
